@@ -1,0 +1,30 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+#main {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border: 5px solid white;
+    border-radius: 7px;
+    background-color: white;
+}
+
+#center {
+    text-align: center;
+}
+
+img {
+    border-radius: 7px;
+    padding-top: 10px;
+}
+
+#body-text {
+    text-align: center;
+}
+
+.attribution {
+    padding: 10px;
+}
+
